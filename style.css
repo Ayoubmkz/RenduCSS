@@ -1,0 +1,51 @@
+header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url("bgp_1.jpg");
+    background-size: cover;
+}
+
+
+
+#home-hero {
+    
+
+    height: 100vh;
+    color: white;
+    display: flex;
+    background-size: 100%;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    
+}
+img {
+    width: 60px;
+    height: 60px;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    background-color: rgb(133, 150, 245);
+    border-radius: 30px;
+    border-style: solid;
+}
+li{
+    margin: 20px;
+    text-align: center;
+}
+h1{
+    display: flex;
+    justify-content: center;
+   
+}
+
+p{
+    display: flex;
+    justify-content: center;
+}
